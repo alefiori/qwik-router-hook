@@ -1,6 +1,6 @@
 {
   "name": "qwik-router-hook",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple hooks to manage routing in Qwik SPA",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
